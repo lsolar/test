@@ -1,6 +1,6 @@
 Zaciatok				
 
-Hello
+Pridany dalsi novy riadok Hello
 
-New line of text.
+NEw linew 12334. New line of text.
 Koniec
